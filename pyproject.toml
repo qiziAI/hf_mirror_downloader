@@ -1,6 +1,6 @@
 [project]
 name = "hf_mirror_downloader"
-version = "0.2.0"
+version = "0.3.0"
 description = "Use HF mirror to download models with huggingface-cli"
 authors = [{ name = "Kang Bo", email = "532910708@qq.com" }]
 readme = "README.md"

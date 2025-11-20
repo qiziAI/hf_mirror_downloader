@@ -4,7 +4,7 @@ Hugging Face model and data downloader. Unlimited everywhere .
 ## Install
 
 ```bash
-pip install hf-downloader
+pip install hf_mirror_downloader
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ pip install hf-downloader
 ### Python
 
 ```python
-from hf_downloader import download_model
+from hf_mirror_downloader import download_model
 download_model("meta-llama/Llama-2-7b-hf", "llama")
 ```
 
